@@ -1,5 +1,3 @@
-# Login_system
-#Registration and login system using file handling
 def register():
     db = open("user.txt", "r")
     a = input("Create your username in format __@__.__: ")
